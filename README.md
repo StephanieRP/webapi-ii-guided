@@ -1,4 +1,4 @@
-# Web API II Guided Project
+# Hubs Web API Redux
 
 Guided project for **Web API II** module.
 
